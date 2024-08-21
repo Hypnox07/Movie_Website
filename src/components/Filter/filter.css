@@ -1,0 +1,36 @@
+.movie__list {
+    padding: 0 3rem 3rem 3rem;
+}
+
+.filter_title {
+    font-size: 1.75rem;
+    margin: 62px 0px -12px 50px;
+
+}
+
+.list__cards {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
+.header {
+    margin: 0 2.5rem;
+    padding: .5rem 0;
+    align-items: center;
+    display: flex;
+    justify-content:space-between;
+}
+.view{
+    margin-top: 80px;
+    margin-right: 50px;
+    color: white;
+    text-decoration-line: underline
+}
+.top{
+    margin-top: -100px;
+}
+
+
+a > h3:hover {
+    color:MediumSeaGreen;
+}
